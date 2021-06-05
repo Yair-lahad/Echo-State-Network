@@ -1,5 +1,5 @@
 %% Exercise 3- Echo State Network (ESN)
-% yair lahad 205493018
+% yair lahad
 clear; clc;
 
 %% Parameters
